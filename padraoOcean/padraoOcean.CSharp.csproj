@@ -65,6 +65,7 @@
     <Compile Include="Assets\Scripts\Patterns\CreditsController.cs" />
     <Compile Include="Assets\Scripts\Patterns\ExitController.cs" />
     <Compile Include="Assets\Scripts\Patterns\ExitEsc.cs" />
+    <Compile Include="Assets\Scripts\Patterns\MenuController.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
